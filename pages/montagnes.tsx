@@ -1,4 +1,5 @@
 import Header from "../components/Header";
+import '../app/globals.css'
 
 export default function Montagnes() {
   return (
@@ -8,3 +9,4 @@ export default function Montagnes() {
     </div>
   );
 }
+

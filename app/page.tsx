@@ -1,5 +1,7 @@
 import Header from "@/components/Header";
 import Sidebar, { Post } from "@/components/Sidebar";
+import './globals.css'
+
 
 
 export default function Home() {
